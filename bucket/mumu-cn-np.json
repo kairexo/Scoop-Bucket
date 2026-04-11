@@ -59,7 +59,7 @@
         "regex": "(.*)=====(?<md5>.*)=====(?<url>.*)"
     },
     "autoupdate": {
-        "url": "$matchUrl#/installer.exe",
+        "url": ["$matchUrl#/installer.exe"],
         "hash": {
             "url": "https://httpbin.org/get?md5=$matchMd5",
             "jsonpath": "$.args.md5"
