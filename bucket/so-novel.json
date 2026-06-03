@@ -1,10 +1,10 @@
 {
-    "version": "1.10.1",
+    "version": "1.10.2",
     "description": "网文下载器",
     "homepage": "https://github.com/freeok/so-novel",
     "license": "AGPL-3.0",
-    "url": "https://github.com/freeok/so-novel/releases/download/v1.10.1/sonovel-windows.tar.gz",
-    "hash": "44e95fa5c0affe7a880afa3c27a42f71475deea1698aea26998d57d8e9132800",
+    "url": "https://github.com/freeok/so-novel/releases/download/v1.10.2/sonovel-windows.tar.gz",
+    "hash": "f314574ef1e9418d8afe83145020e70c31a7faaf3d6e96ece6ed4553182ea11e",
     "extract_dir": "SoNovel",
     "persist": [
         "config.ini",
